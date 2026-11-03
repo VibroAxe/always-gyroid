@@ -4,7 +4,7 @@
 	"license": "AGPL-3.0-only",
 	"min_slicer_version": "3.0.0-alpha13",
 	"version": "1.0.0",
-	"author": "VibroAxe",
+	"author": "4acc508a-9bb4-4faa-a86f-0388e3f1949a",
 	"description": "Print goal that overrides the sparse infill pattern with gyroid",
 	"required_apis": {
 		"print.print_mode": "1.0.0"
