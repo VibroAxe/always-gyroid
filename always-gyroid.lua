@@ -3,7 +3,7 @@
 -- goal is enabled; disabling it restores the underlying profile values.
 
 info = {
-    id = "always_gyroid",
+    id = "always-gyroid",
     type = "print.print_mode",
     title = "Always Gyroid"
 }
