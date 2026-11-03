@@ -1,4 +1,4 @@
-# always_gyroid
+# always-gyroid
 A PrusaSlicer 3.0 print goal to always use gyroid infill
 
 ## Using
